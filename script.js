@@ -31,3 +31,10 @@ city ="New Orleans";
 
 var state;
 state ="Louisiana"
+
+
+
+var priceOfGym = 44.99;
+var priceOfGas = 62.66;
+
+var totalAmount = priceOfGym + priceOfGas;
