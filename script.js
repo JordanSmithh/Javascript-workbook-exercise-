@@ -21,3 +21,13 @@ driverLicenseNumber ="9087643683658";
 
 var autoPolicyNumber;
 autoPolicyNumber ="7367996319";
+
+
+var myName;
+myName ="Jordan";
+
+var city;
+city ="New Orleans";
+
+var state;
+state ="Louisiana"
